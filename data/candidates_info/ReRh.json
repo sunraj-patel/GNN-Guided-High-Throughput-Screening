@@ -1,0 +1,63 @@
+{
+ "compound": "ReRh",
+ "relax_src": "vcrelax3.out",
+ "relaxed_cell_A": [
+  [
+   3.088745655,
+   0.0,
+   0.0
+  ],
+  [
+   0.0,
+   3.088745655,
+   0.0
+  ],
+  [
+   0.0,
+   0.0,
+   3.088745655
+  ]
+ ],
+ "relaxed_positions_crystal": [
+  [
+   "Re",
+   0.0,
+   0.0,
+   0.0
+  ],
+  [
+   "Rh",
+   0.5,
+   0.5,
+   0.5
+  ]
+ ],
+ "species": [
+  {
+   "symbol": "Re",
+   "mass": 186.21,
+   "pp": "Re.pbe-spn-kjpaw_psl.1.0.0.UPF"
+  },
+  {
+   "symbol": "Rh",
+   "mass": 102.91,
+   "pp": "Rh.pbe-spn-kjpaw_psl.1.0.0.UPF"
+  }
+ ],
+ "starting_mag": {
+  "Re": 0.5,
+  "Rh": 0.5
+ },
+ "k_mesh": 12,
+ "ecutwfc": 100,
+ "ecutrho": 1000,
+ "smearing": "mv",
+ "degauss": 0.02,
+ "reference_scf": {
+  "E_Ry": -1265.72708497,
+  "P_kbar": 0.62,
+  "mag_tot": -0.0,
+  "mag_abs": 0.0,
+  "job_done": true
+ }
+}

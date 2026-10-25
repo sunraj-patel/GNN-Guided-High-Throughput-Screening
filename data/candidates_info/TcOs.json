@@ -1,0 +1,63 @@
+{
+ "compound": "TcOs",
+ "relax_src": "vcrelax3.out",
+ "relaxed_cell_A": [
+  [
+   3.087673575,
+   0.0,
+   0.0
+  ],
+  [
+   0.0,
+   3.087673575,
+   0.0
+  ],
+  [
+   0.0,
+   0.0,
+   3.087673575
+  ]
+ ],
+ "relaxed_positions_crystal": [
+  [
+   "Tc",
+   0.0,
+   0.0,
+   0.0
+  ],
+  [
+   "Os",
+   0.5,
+   0.5,
+   0.5
+  ]
+ ],
+ "species": [
+  {
+   "symbol": "Tc",
+   "mass": 98.0,
+   "pp": "Tc.pbe-spn-kjpaw_psl.0.3.0.UPF"
+  },
+  {
+   "symbol": "Os",
+   "mass": 190.23,
+   "pp": "Os.pbe-spn-kjpaw_psl.1.0.0.UPF"
+  }
+ ],
+ "starting_mag": {
+  "Tc": 0.5,
+  "Os": 0.5
+ },
+ "k_mesh": 12,
+ "ecutwfc": 100,
+ "ecutrho": 1000,
+ "smearing": "mv",
+ "degauss": 0.02,
+ "reference_scf": {
+  "E_Ry": -1229.67171297,
+  "P_kbar": -9.81,
+  "mag_tot": -0.0,
+  "mag_abs": 0.0,
+  "job_done": true
+ }
+}

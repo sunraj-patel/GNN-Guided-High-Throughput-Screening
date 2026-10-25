@@ -1,0 +1,11 @@
+candidate,proto,formula,a_GNN,a_DFT,dA_pct,B_GNN,B_DFT,dB_pct,C11,C12,C44,Cprime_tet,B_EOS,E_hull_GNN,verdict
+Re-Os,CsCl,ReOs,2.9401,3.0993,5.41,361.5,354.6,-1.9,68.5,497.6,189.9,,351.9,0.0004,tetragonally unstable (C11-C12<0)
+Tc-Os,CsCl,TcOs,2.8171,3.0877,9.6,352.5,325.3,-7.72,104.8,435.6,170.4,-151.8,320.4,0.0016,tetragonally unstable (C11-C12<0)
+P-Os2,Fluorite,POs2,5.4781,5.5823,1.9,319.9,293.5,-8.27,502.5,188.9,72.8,,292.1,0.0041,mechanically stable
+Re-Rh,CsCl,ReRh,2.93,3.0887,5.42,306.2,300.3,-1.95,20.0,440.5,142.1,-197.1,296.5,0.0045,tetragonally unstable (C11-C12<0)
+B-Ir2,Fluorite,BIr2,4.9346,5.3476,8.37,313.2,303.7,-3.03,609.0,151.1,7.2,,302.9,0.0044,mechanically stable
+Re-Ir,CsCl,ReIr,2.9511,3.1183,5.67,344.9,331.3,-3.95,-55.8,524.9,162.1,-268.0,330.3,0.0044,tetragonally unstable (C11<0 saddle)
+Ni-Os,CsCl,NiOs,2.8721,2.927,1.91,293.9,302.9,3.04,266.7,320.9,229.0,-23.5,299.6,0.0319,tetragonally unstable (tet-proven)
+Re-B,CsCl,ReB,2.6651,2.7462,3.04,346.0,348.1,0.62,594.9,224.7,98.3,,346.5,0.0288,mechanically stable
+Tc-Re,CsCl,ReTc,2.8748,3.0937,7.61,340.4,327.2,-3.88,312.0,334.8,141.4,-11.0,324.7,-0.0023,marginally unstable (C11-C12<0)
+Ru-O,Rocksalt,RuO,4.2673,4.4698,4.74,266.7,,,,,,,,0.0449,QC fail: magnetic branch inconsistent (strains/EOS not on 7.49 uB ground state); elastic and EOS numbers withdrawn

@@ -1,0 +1,11 @@
+candidate,prototype,a_GNN,a_DFT,delta_a_pct,B_GNN,B_DFT,delta_B_pct,C11,C12,C44,Cprime,B_EOS,delta_B_EOS_pct,E_hull,magnetic_moment,Born_criterion,final_verdict
+Re-Os,CsCl,2.9401,3.0993,5.41,361.5,354.6,-1.9,68.5,497.6,189.9,-214.6,351.9,-2.64,0.0004,-0.0,Born unstable (C11-C12<0),tetragonally unstable (C11-C12<0)
+Tc-Os,CsCl,2.8171,3.0877,9.6,352.5,325.3,-7.72,104.8,435.6,170.4,-165.4,320.4,-9.11,0.0016,-0.0,Born unstable (C11-C12<0),tetragonally unstable (C11-C12<0)
+P-Os2,Fluorite,5.4781,5.5823,1.9,319.9,293.5,-8.27,502.5,188.9,72.8,156.8,292.1,-8.71,0.0041,0.0,PASS,mechanically stable
+Re-Rh,CsCl,2.93,3.0887,5.42,306.2,300.3,-1.95,20.0,440.5,142.1,-210.2,296.5,-3.18,0.0045,-0.0,Born unstable (C11-C12<0),tetragonally unstable (C11-C12<0)
+B-Ir2,Fluorite,4.9346,5.3476,8.37,313.2,303.7,-3.03,609.0,151.1,7.2,228.9,302.9,-3.28,0.0044,-0.0,PASS,mechanically stable
+Re-Ir,CsCl,2.9511,3.1183,5.67,344.9,331.3,-3.95,-55.8,524.9,162.1,-290.3,330.3,-4.23,0.0044,-0.0,Born unstable (C11-C12<0),tetragonally unstable (C11<0 saddle)
+Ni-Os,CsCl,2.8721,2.927,1.91,293.9,302.9,3.04,266.7,320.9,229.0,-27.1,299.6,1.93,0.0319,0.0,Born unstable (C11-C12<0),tetragonally unstable (tet-proven)
+Re-B,CsCl,2.6651,2.7462,3.04,346.0,348.1,0.62,594.9,224.7,98.3,185.1,346.5,0.14,0.0288,-0.0,PASS,mechanically stable
+Tc-Re,CsCl,2.8748,3.0937,7.61,340.4,327.2,-3.88,312.0,334.8,141.4,-11.4,324.7,-4.62,-0.0023,-0.0,Born unstable (C11-C12<0),marginally unstable (C11-C12<0)
+Ru-O,Rocksalt,4.2673,4.4698,4.74,266.7,,,,,,,,,0.0449,7.49,WITHDRAWN (QC fail),QC fail: magnetic branch inconsistent (strains/EOS not on 7.49 uB ground state); elastic and EOS numbers withdrawn

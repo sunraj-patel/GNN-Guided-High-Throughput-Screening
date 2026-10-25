@@ -1,0 +1,377 @@
+[
+ {
+  "pool_id": "6049",
+  "A": "Os",
+  "B": "Os",
+  "proto": "CsCl",
+  "formula": "Os",
+  "n_jarvis": 2,
+  "same_sg": [],
+  "all_sg": [
+   "225"
+  ],
+  "icsd_refs": [
+   "181137,41523,181103"
+  ]
+ },
+ {
+  "pool_id": "7169",
+  "A": "Re",
+  "B": "Re",
+  "proto": "CsCl",
+  "formula": "Re",
+  "n_jarvis": 2,
+  "same_sg": [],
+  "all_sg": [
+   "225"
+  ],
+  "icsd_refs": [
+   "41522"
+  ]
+ },
+ {
+  "pool_id": "5994",
+  "A": "Os",
+  "B": "Ir",
+  "proto": "CsCl",
+  "formula": "OsIr",
+  "n_jarvis": 1,
+  "same_sg": [],
+  "all_sg": [
+   "187"
+  ],
+  "icsd_refs": []
+ },
+ {
+  "pool_id": "6073",
+  "A": "Re",
+  "B": "Os",
+  "proto": "CsCl",
+  "formula": "ReOs",
+  "n_jarvis": 0,
+  "same_sg": [],
+  "all_sg": [],
+  "icsd_refs": []
+ },
+ {
+  "pool_id": "6108",
+  "A": "Tc",
+  "B": "Os",
+  "proto": "CsCl",
+  "formula": "TcOs",
+  "n_jarvis": 1,
+  "same_sg": [],
+  "all_sg": [
+   "187"
+  ],
+  "icsd_refs": []
+ },
+ {
+  "pool_id": "6083",
+  "A": "Os",
+  "B": "Ru",
+  "proto": "CsCl",
+  "formula": "OsRu",
+  "n_jarvis": 2,
+  "same_sg": [],
+  "all_sg": [
+   "187"
+  ],
+  "icsd_refs": []
+ },
+ {
+  "pool_id": "598",
+  "A": "Re",
+  "B": "B",
+  "proto": "CsCl",
+  "formula": "ReB",
+  "n_jarvis": 0,
+  "same_sg": [],
+  "all_sg": [],
+  "icsd_refs": []
+ },
+ {
+  "pool_id": "3664",
+  "A": "Re",
+  "B": "Ir",
+  "proto": "CsCl",
+  "formula": "ReIr",
+  "n_jarvis": 0,
+  "same_sg": [],
+  "all_sg": [],
+  "icsd_refs": []
+ },
+ {
+  "pool_id": "3585",
+  "A": "Ir",
+  "B": "Ir",
+  "proto": "CsCl",
+  "formula": "Ir",
+  "n_jarvis": 2,
+  "same_sg": [],
+  "all_sg": [
+   "225"
+  ],
+  "icsd_refs": [
+   "64992,659854,41524,53813,640729,640730"
+  ]
+ },
+ {
+  "pool_id": "8702",
+  "A": "Tc",
+  "B": "Re",
+  "proto": "CsCl",
+  "formula": "TcRe",
+  "n_jarvis": 0,
+  "same_sg": [],
+  "all_sg": [],
+  "icsd_refs": []
+ },
+ {
+  "pool_id": "3588",
+  "A": "Ir",
+  "B": "Ir",
+  "proto": "Fluorite",
+  "formula": "Ir",
+  "n_jarvis": 2,
+  "same_sg": [
+   {
+    "jid": "JVASP-14588",
+    "formula": "Ir",
+    "ehull": 0.0
+   },
+   {
+    "jid": "JVASP-901",
+    "formula": "Ir",
+    "ehull": 0.0
+   }
+  ],
+  "all_sg": [
+   "225"
+  ],
+  "icsd_refs": [
+   "64992,659854,41524,53813,640729,640730"
+  ]
+ },
+ {
+  "pool_id": "574",
+  "A": "B",
+  "B": "Os",
+  "proto": "Rocksalt",
+  "formula": "BOs",
+  "n_jarvis": 1,
+  "same_sg": [],
+  "all_sg": [
+   "187"
+  ],
+  "icsd_refs": []
+ },
+ {
+  "pool_id": "6056",
+  "A": "P",
+  "B": "Os",
+  "proto": "Fluorite",
+  "formula": "POs2",
+  "n_jarvis": 0,
+  "same_sg": [],
+  "all_sg": [],
+  "icsd_refs": []
+ },
+ {
+  "pool_id": "1286",
+  "A": "Ta",
+  "B": "C",
+  "proto": "Rocksalt",
+  "formula": "TaC",
+  "n_jarvis": 5,
+  "same_sg": [
+   {
+    "jid": "JVASP-20073",
+    "formula": "CTa",
+    "ehull": 0.0
+   }
+  ],
+  "all_sg": [
+   "187",
+   "216",
+   "221",
+   "225"
+  ],
+  "icsd_refs": [
+   "159875,159876,159877,159878,159879,155163,43525,618838,618846,618825,601144,618847,618818,618820,618823,618828,26956,618829,618830,618831,618832,44497,618835,618836,618837,53974,618839,618841,618843,618844,618845,77406,38239,618848,618833,180601"
+  ]
+ },
+ {
+  "pool_id": "521",
+  "A": "B",
+  "B": "Ir",
+  "proto": "Fluorite",
+  "formula": "BIr2",
+  "n_jarvis": 0,
+  "same_sg": [],
+  "all_sg": [],
+  "icsd_refs": []
+ },
+ {
+  "pool_id": "6096",
+  "A": "Si",
+  "B": "Os",
+  "proto": "Fluorite",
+  "formula": "SiOs2",
+  "n_jarvis": 1,
+  "same_sg": [],
+  "all_sg": [
+   "221"
+  ],
+  "icsd_refs": [
+   "43417"
+  ]
+ },
+ {
+  "pool_id": "6296",
+  "A": "Re",
+  "B": "P",
+  "proto": "Fluorite",
+  "formula": "Re2P",
+  "n_jarvis": 0,
+  "same_sg": [],
+  "all_sg": [],
+  "icsd_refs": []
+ },
+ {
+  "pool_id": "1301",
+  "A": "V",
+  "B": "C",
+  "proto": "Rocksalt",
+  "formula": "VC",
+  "n_jarvis": 2,
+  "same_sg": [
+   {
+    "jid": "JVASP-19657",
+    "formula": "CV",
+    "ehull": 0.0633
+   }
+  ],
+  "all_sg": [
+   "221",
+   "225"
+  ],
+  "icsd_refs": [
+   "619074,619067,619077,619079,619049,22263,619054,619055,619056,619057,619075,619061,26953,619065,619066,77563,181051,159870,619071"
+  ]
+ },
+ {
+  "pool_id": "1216",
+  "A": "Nb",
+  "B": "C",
+  "proto": "Rocksalt",
+  "formula": "NbC",
+  "n_jarvis": 3,
+  "same_sg": [
+   {
+    "jid": "JVASP-19889",
+    "formula": "CNb",
+    "ehull": 0.0145
+   }
+  ],
+  "all_sg": [
+   "216",
+   "221",
+   "225"
+  ],
+  "icsd_refs": [
+   "159872,155164,77214,181792,618481,601142,181052,44355,26955,618448,618449,618450,44496,618453,618456,618457,618458,618460,618462,618463,618465,618466,618469,618471,618472,618473,618475,618476,618478,618480,94449,618482,618483,618484"
+  ]
+ },
+ {
+  "pool_id": "5015",
+  "A": "Tc",
+  "B": "N",
+  "proto": "Zincblende",
+  "formula": "TcN",
+  "n_jarvis": 5,
+  "same_sg": [
+   {
+    "jid": "JVASP-36020",
+    "formula": "NTc",
+    "ehull": 0.1252
+   }
+  ],
+  "all_sg": [
+   "187",
+   "216",
+   "221",
+   "225"
+  ],
+  "icsd_refs": []
+ },
+ {
+  "pool_id": "5865",
+  "A": "Ru",
+  "B": "O",
+  "proto": "Rocksalt",
+  "formula": "RuO",
+  "n_jarvis": 1,
+  "same_sg": [],
+  "all_sg": [
+   "187"
+  ],
+  "icsd_refs": []
+ },
+ {
+  "pool_id": "1197",
+  "A": "Mn",
+  "B": "C",
+  "proto": "Zincblende",
+  "formula": "MnC",
+  "n_jarvis": 0,
+  "same_sg": [],
+  "all_sg": [],
+  "icsd_refs": []
+ },
+ {
+  "pool_id": "1162",
+  "A": "Fe",
+  "B": "C",
+  "proto": "Zincblende",
+  "formula": "FeC",
+  "n_jarvis": 0,
+  "same_sg": [],
+  "all_sg": [],
+  "icsd_refs": []
+ },
+ {
+  "pool_id": "4990",
+  "A": "Ru",
+  "B": "N",
+  "proto": "Zincblende",
+  "formula": "RuN",
+  "n_jarvis": 6,
+  "same_sg": [
+   {
+    "jid": "JVASP-36400",
+    "formula": "NRu",
+    "ehull": 0.1617
+   }
+  ],
+  "all_sg": [
+   "187",
+   "216",
+   "225"
+  ],
+  "icsd_refs": []
+ },
+ {
+  "pool_id": "1137",
+  "A": "Co",
+  "B": "C",
+  "proto": "Zincblende",
+  "formula": "CoC",
+  "n_jarvis": 1,
+  "same_sg": [],
+  "all_sg": [
+   "187"
+  ],
+  "icsd_refs": []
+ }
+]

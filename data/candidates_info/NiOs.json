@@ -1,0 +1,63 @@
+{
+ "compound": "NiOs",
+ "relax_src": "vcrelax3.out",
+ "relaxed_cell_A": [
+  [
+   2.927031053,
+   0.0,
+   0.0
+  ],
+  [
+   0.0,
+   2.927031053,
+   0.0
+  ],
+  [
+   0.0,
+   0.0,
+   2.927031053
+  ]
+ ],
+ "relaxed_positions_crystal": [
+  [
+   "Ni",
+   0.0,
+   0.0,
+   0.0
+  ],
+  [
+   "Os",
+   0.5,
+   0.5,
+   0.5
+  ]
+ ],
+ "species": [
+  {
+   "symbol": "Ni",
+   "mass": 58.69,
+   "pp": "Ni.pbe-spn-kjpaw_psl.1.0.0.UPF"
+  },
+  {
+   "symbol": "Os",
+   "mass": 190.23,
+   "pp": "Os.pbe-spn-kjpaw_psl.1.0.0.UPF"
+  }
+ ],
+ "starting_mag": {
+  "Ni": 0.5,
+  "Os": 0.5
+ },
+ "k_mesh": 12,
+ "ecutwfc": 100,
+ "ecutrho": 1000,
+ "smearing": "mv",
+ "degauss": 0.02,
+ "reference_scf": {
+  "E_Ry": -1262.55469845,
+  "P_kbar": -4.0,
+  "mag_tot": 0.0,
+  "mag_abs": 0.0,
+  "job_done": true
+ }
+}
